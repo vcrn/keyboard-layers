@@ -119,8 +119,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 74,
-      "label": "HOME"
+      "keyCode": 20497,
+      "label": "UP",
+      "extraLabel": "M.Wheel"
     },
     {
       "keyCode": 20545,
@@ -206,8 +207,9 @@
       "label": "ESC"
     },
     {
-      "keyCode": 77,
-      "label": "END"
+      "keyCode": 20498,
+      "label": "DOWN",
+      "extraLabel": "M.Wheel"
     },
     {
       "keyCode": 20484,
@@ -294,9 +296,10 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 53856,
-      "label": "4",
-      "extraLabel": "MACRO"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 2331,
@@ -414,8 +417,8 @@
       "extraLabel": "OSL"
     },
     {
-      "keyCode": 17496,
-      "label": "5",
+      "keyCode": 17494,
+      "label": "3",
       "extraLabel": "LOCK"
     },
     {
@@ -423,10 +426,8 @@
       "label": "DEL"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 40,
+      "label": "ENTER"
     },
     {
       "keyCode": 228,
@@ -480,7 +481,7 @@
     10,
     12,
     15,
-    2,
+    14,
     2,
     2,
     2,
@@ -500,7 +501,7 @@
     8,
     8,
     14,
-    14,
+    8,
     15,
     14,
     14,
@@ -525,7 +526,7 @@
     4,
     1,
     12,
-    14,
+    0,
     0,
     3,
     14,
